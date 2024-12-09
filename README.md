@@ -4,6 +4,11 @@
 
 Our study aims to implement deep-learning techniques that automate the interpretation of knee MRIs. The study aims to suggest methods to assist physicians in obtaining a precise diagnosis by differentiating between different kinds of abnormalities and to be able to prioritize high-risk patients. The project involves data pre-processing, model selection, hyperparameter tuning, and thorough evaluation to achieve optimal accuracy, sensitivity, and specificity results.
 
+## Report
+
+The project report can be found here:
+[MRNet___SML___Final_Report.pdf](MRNet___SML___Final_Report.pdf)
+
 ## Project Structure
 
 To navigate through the project effectively, please follow the structure outlined below:
